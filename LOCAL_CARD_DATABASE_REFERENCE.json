@@ -27,7 +27,7 @@
   { "id": "char-23", "name": "Águila Solar", "ATQ": 5, "DEF": 3, "VEL": 9, "MID": 5.67, "primaryFaction": "Bestias", "Compatibles": ["Elementales"], "isReluciente": false, "image": "https://raw.githubusercontent.com/unasola451/Factions-Clash-of-Legends/refs/heads/main/%C3%81guila_Solar.png", "type": "character" },
   { "id": "char-24", "name": "Basilisco del alba", "ATQ": 8, "DEF": 5, "VEL": 4, "MID": 5.67, "primaryFaction": "Bestias", "Compatibles": ["Guerreros", "Sombras"], "isReluciente": false, "image": "https://raw.githubusercontent.com/unasola451/Factions-Clash-of-Legends/refs/heads/main/Basilisco%20del%20alba.png", "type": "character" },
   { "id": "char-25", "name": "Quimera", "ATQ": 5, "DEF": 7, "VEL": 6, "MID": 8.33, "primaryFaction": "Bestias", "Compatibles": ["Bestias"], "isReluciente": true, "image": "https://raw.githubusercontent.com/unasola451/Factions-Clash-of-Legends/refs/heads/main/F%C3%A9nix_Dorado.jpg", "type": "character" }
-]
+],
 "Objects": [
   { "id": "obj-1", "name": "Anillo del Guardián", "Efecto": "+10 puntos de vida permanentes", "type": "object", "isReluciente": false, "image": "https://raw.githubusercontent.com/unasola451/Factions-Clash-of-Legends/refs/heads/main/Anillo_del_guardian.jpg", "isPersistent": false },
   { "id": "obj-2", "name": "Espada del Eco", "Efecto": "Permite repetir ataque si tu personaje tiene más VEL", "type": "object", "isReluciente": false, "image": "https://raw.githubusercontent.com/unasola451/Factions-Clash-of-Legends/refs/heads/main/Espada_del_eco.jpg", "isPersistent": true },
