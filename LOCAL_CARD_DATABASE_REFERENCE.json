@@ -32,5 +32,11 @@
     { "id": "obj-2", "name": "Espada del Eco", "Efecto": "Permite repetir ataque si tu personaje tiene más VEL", "type": "object", "isReluciente": false, "image": "https://placehold.co/150x200/4CAF50/FFFFFF?text=Carta+Frente", "isPersistent": true },
     { "id": "obj-3", "name": "Amuleto del Caos", "Efecto": "Resta 1 DEF a todos los enemigos en campo", "type": "object", "isReluciente": false, "image": "https://placehold.co/150x200/4CAF50/FFFFFF?text=Carta+Frente", "isPersistent": false },
     { "id": "obj-4", "name": "Botas de la Sombra", "Efecto": "Evita el primer ataque recibido al entrar en campo", "type": "object", "isReluciente": false, "image": "https://placehold.co/150x200/4CAF50/FFFFFF?text=Carta+Frente", "isPersistent": true }
-  ]
+    ],
+  "Images": {
+    "lobbyBackground": "https://raw.githubusercontent.com/unasola451/Factions-Clash-of-Legends/refs/heads/main/fondo.jpeg",
+    "gameBoard": "https://raw.githubusercontent.com/unasola451/Factions-Clash-of-Legends/refs/heads/main/tablero.png",
+    "cardBack": "https://raw.githubusercontent.com/unasola451/Factions-Clash-of-Legends/refs/heads/main/carta_volteada.jpg",
+    "genericFaceUpCard": "https://placehold.co/150x200/4CAF50/FFFFFF?text=Carta+Frente"
+  }
 }
