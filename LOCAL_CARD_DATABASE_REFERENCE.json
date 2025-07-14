@@ -1,6 +1,6 @@
 {
   "Guerreros": [
-    { "id": "char-1", "name": "Caballero Real", "ATQ": 6, "DEF": 8, "VEL": 4, "MID": 6, "primaryFaction": "Guerreros", "Compatibles": ["Inventores"], "isReluciente": false, "image": "https://placehold.co/150x200/4CAF50/FFFFFF?text=Carta+Frente", "type": "character" },
+    { "id": "char-1", "name": "Caballero Real", "ATQ": 100, "DEF": 8, "VEL": 4, "MID": 6, "primaryFaction": "Guerreros", "Compatibles": ["Inventores"], "isReluciente": false, "image": "https://placehold.co/150x200/4CAF50/FFFFFF?text=Carta+Frente", "type": "character" },
     { "id": "char-2", "name": "Arquero del Norte", "ATQ": 5, "DEF": 3, "VEL": 7, "MID": 5, "primaryFaction": "Guerreros", "Compatibles": ["Elementales"], "isReluciente": false, "image": "https://placehold.co/150x200/4CAF50/FFFFFF?text=Carta+Frente", "type": "character" },
     { "id": "char-3", "name": "Espadachín", "ATQ": 7, "DEF": 5, "VEL": 6, "MID": 6, "primaryFaction": "Guerreros", "Compatibles": ["Guerreros"], "isReluciente": false, "image": "https://placehold.co/150x200/4CAF50/FFFFFF?text=Carta+Frente", "type": "character" },
     { "id": "char-4", "name": "Lancero", "ATQ": 6, "DEF": 6, "VEL": 5, "MID": 5.67, "primaryFaction": "Guerreros", "Compatibles": ["Inventores"], "isReluciente": false, "image": "https://placehold.co/150x200/4CAF50/FFFFFF?text=Carta+Frente", "type": "character" },
