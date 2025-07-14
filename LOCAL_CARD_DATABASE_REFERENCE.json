@@ -28,42 +28,10 @@
     { "id": "char-24", "name": "Basilisco del alba", "ATQ": 8, "DEF": 5, "VEL": 4, "MID": 5.67, "primaryFaction": "Bestias", "Compatibles": ["Guerreros", "Sombras"], "isReluciente": false, "image": "https://placehold.co/150x200/4CAF50/FFFFFF?text=Carta+Frente", "type": "character" }
   ],
 "Objects": [
-  {
-    "id": "obj-1",
-    "name": "Anillo del Guardián",
-    "Efecto": "+10 puntos de vida permanentes",
-    "type": "object",
-    "isReluciente": false,
-    "image": "https://raw.githubusercontent.com/unasola451/Factions-Clash-of-Legends/refs/heads/main/Anillo_del_guardian.jpg",
-    "isPersistent": false
-  },
-  {
-    "id": "obj-2",
-    "name": "Espada del Eco",
-    "Efecto": "Permite repetir ataque si tu personaje tiene más VEL",
-    "type": "object",
-    "isReluciente": false,
-    "image": "https://raw.githubusercontent.com/unasola451/Factions-Clash-of-Legends/refs/heads/main/Espada_del_eco.jpg",
-    "isPersistent": true
-  },
-  {
-    "id": "obj-3",
-    "name": "Amuleto del Caos",
-    "Efecto": "Resta 1 DEF a todos los enemigos en campo",
-    "type": "object",
-    "isReluciente": false,
-    "image": "https://raw.githubusercontent.com/unasola451/Factions-Clash-of-Legends/refs/heads/main/Amuleto_del_caos.jpg",
-    "isPersistent": false
-  },
-  {
-    "id": "obj-4",
-    "name": "Botas de la Sombra",
-    "Efecto": "Evita el primer ataque recibido al entrar en campo",
-    "type": "object",
-    "isReluciente": false,
-    "image": "https://raw.githubusercontent.com/unasola451/Factions-Clash-of-Legends/refs/heads/main/Botas_de_las_sombras.jpg",
-    "isPersistent": true
-  }
+  { "id": "obj-1", "name": "Anillo del Guardián", "Efecto": "+10 puntos de vida permanentes", "type": "object", "isReluciente": false, "image": "https://raw.githubusercontent.com/unasola451/Factions-Clash-of-Legends/refs/heads/main/Anillo_del_guardian.jpg", "isPersistent": false },
+  { "id": "obj-2", "name": "Espada del Eco", "Efecto": "Permite repetir ataque si tu personaje tiene más VEL", "type": "object", "isReluciente": false, "image": "https://raw.githubusercontent.com/unasola451/Factions-Clash-of-Legends/refs/heads/main/Espada_del_eco.jpg", "isPersistent": true },
+  { "id": "obj-3", "name": "Amuleto del Caos", "Efecto": "Resta 1 DEF a todos los enemigos en campo", "type": "object", "isReluciente": false, "image": "https://raw.githubusercontent.com/unasola451/Factions-Clash-of-Legends/refs/heads/main/Amuleto_del_caos.jpg", "isPersistent": false },
+  { "id": "obj-4", "name": "Botas de la Sombra", "Efecto": "Evita el primer ataque recibido al entrar en campo", "type": "object", "isReluciente": false, "image": "https://raw.githubusercontent.com/unasola451/Factions-Clash-of-Legends/refs/heads/main/Botas_de_las_sombras.jpg", "isPersistent": true }
 ],
   "Images": {
     "lobbyBackground": "https://raw.githubusercontent.com/unasola451/Factions-Clash-of-Legends/refs/heads/main/fondo.jpeg",
